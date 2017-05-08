@@ -16,11 +16,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ml_advice.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ml_advice.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/polybox/Teaching/chi-course/externalresources/ml_advice.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ml_advice.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ml_advice.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="10" />
             </state>
           </provider>
         </entry>
@@ -35,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/simple_classification.ipynb" />
         <option value="$USER_HOME$/polybox/Teaching/chi-course/externalresources/ml_advice.ipynb" />
+        <option value="$PROJECT_DIR$/ml_advice.ipynb" />
       </list>
     </option>
   </component>
@@ -60,6 +70,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -74,8 +86,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,6 +150,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/polybox/Teaching/chi-course/externalresources/ml_advice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/simple_classification.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -171,7 +188,14 @@
     <entry file="file://$USER_HOME$/polybox/Teaching/chi-course/externalresources/ml_advice.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="2" />
+          <selected id="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml_advice.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="10" />
         </state>
       </provider>
     </entry>
